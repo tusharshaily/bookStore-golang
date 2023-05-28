@@ -1,2 +1,1 @@
-# bookStore-golang
-This is a Golang learning Project to create a book Store software 
+This readme is the Setup test for the github
